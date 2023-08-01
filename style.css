@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: "Fira Sans";
+  background-color: rgb(233, 215, 207);
+}
+h1 {
+  color: rgb(83, 75, 75);
+}
+main {
+  width: 800px;
+  margin: 200px auto 72px auto;
+  background-color: rgb(219, 108, 94);
+  padding: 24px;
+  border: 5px solid rgb(44, 44, 44);
+  border-radius: 9px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
+  text-transform: capitalize;
+}
+img {
+  height: 250px;
+  border: 5px solid rgb(44, 44, 44);
+  border-radius: 100px;
+  margin-top: -150px;
+  background-color: rgb(204, 51, 30);
+}
+p {
+  color: rgb(83, 75, 75);
+}
+span.title-blue-bold {
+  color: rgb(100, 56, 184);
+}
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+p#highlight {
+  font-weight: bold;
+  font-size: 52px;
+}
